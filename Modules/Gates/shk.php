@@ -392,6 +392,6 @@ $x = 0;
             'disable_web_page_preview'=>'true'
             ]);
     };
-}*/
+}/
 
 ?>
